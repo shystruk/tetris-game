@@ -247,18 +247,6 @@ function onImagesLoaded() {
 
 
 /**
- * Restart Game
- */
-function restartGame() {
-    'use strict';
-
-    document.getElementById('start').addEventListener('click', function () {
-        initGame();
-    });
-}
-
-
-/**
  * Copy Data
  */
 function copyData(pos) {
