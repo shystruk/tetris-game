@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+.info {
+    display: inline-block;
+    vertical-align: top;
+}
+.info h1 {
+    margin: 0;
+}
+
+.game {
+    display: inline-block;
+}
+
+#start {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+    padding: 10px 20px;
+    font-size: 20px;
+    background: #10a518;
+    color: #fff;
+    cursor: pointer;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+#start:hover {
+    background: #1c8411;
+}
