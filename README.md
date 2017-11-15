@@ -3,6 +3,8 @@ Tetris
 
 Tetris Canvas JavaScript
 
+![](demo.gif)
+
 When HTML5 added HTML <strong>canvas</strong> element and allows used draw graphics via scripting in JavaScript.<br/>
 I have decided to create small game and understand what is that and how it works.<br/>
 Basically, it hard to understand what is the head part of build game if you do it first time.<br/>
